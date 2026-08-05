@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahtisham02.github.io/handbook-h6m0eo/sitemap.xml
